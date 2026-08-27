@@ -1,1 +1,1 @@
-.gitnit
+.gitinit
